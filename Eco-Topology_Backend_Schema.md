@@ -4,7 +4,7 @@
 | | |
 |---|---|
 | **Team** | Synorix |
-| **Document Owner** |  |
+| **Document Owner** |   |
 | **Version** | 1.0 |
 | **Status** | Draft — companion to the Technical Requirement Document |
 
