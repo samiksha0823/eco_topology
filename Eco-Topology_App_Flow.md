@@ -4,9 +4,9 @@
 | | |
 |---|---|
 | **Team** | Synorix |
-| **Document Owner** | Samiksha Bhardwaj |
+| **Document Owner** |  |
 | **Version** | 1.0 |
-| **Status** | Draft — for hackathon submission (SheBuilds) |
+| **Status** | Draft |
 | **Companion Docs** | PRD, TRD, UI/UX Brief |
 
 ## 1. Purpose
